@@ -1,0 +1,17 @@
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\MySuperBank.exe
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\MySuperBank.deps.json
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\MySuperBank.runtimeconfig.json
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\MySuperBank.runtimeconfig.dev.json
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\MySuperBank.dll
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\MySuperBank.pdb
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\Humanizer.dll
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\BankyStuffLibrary.dll
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\BankyStuffLibrary.pdb
+D:\Training project\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.csprojAssemblyReference.cache
+D:\Training project\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.AssemblyInfoInputs.cache
+D:\Training project\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.AssemblyInfo.cs
+D:\Training project\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.csproj.CoreCompileInputs.cache
+D:\Training project\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.csproj.CopyComplete
+D:\Training project\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.dll
+D:\Training project\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.pdb
+D:\Training project\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.genruntimeconfig.cache

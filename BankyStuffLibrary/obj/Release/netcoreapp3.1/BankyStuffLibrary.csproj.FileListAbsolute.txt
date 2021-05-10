@@ -1,0 +1,9 @@
+D:\Training project\BankyStuffLibrary\bin\Release\netcoreapp3.1\BankyStuffLibrary.deps.json
+D:\Training project\BankyStuffLibrary\bin\Release\netcoreapp3.1\BankyStuffLibrary.dll
+D:\Training project\BankyStuffLibrary\bin\Release\netcoreapp3.1\BankyStuffLibrary.pdb
+D:\Training project\BankyStuffLibrary\obj\Release\netcoreapp3.1\BankyStuffLibrary.csprojAssemblyReference.cache
+D:\Training project\BankyStuffLibrary\obj\Release\netcoreapp3.1\BankyStuffLibrary.AssemblyInfoInputs.cache
+D:\Training project\BankyStuffLibrary\obj\Release\netcoreapp3.1\BankyStuffLibrary.AssemblyInfo.cs
+D:\Training project\BankyStuffLibrary\obj\Release\netcoreapp3.1\BankyStuffLibrary.csproj.CoreCompileInputs.cache
+D:\Training project\BankyStuffLibrary\obj\Release\netcoreapp3.1\BankyStuffLibrary.dll
+D:\Training project\BankyStuffLibrary\obj\Release\netcoreapp3.1\BankyStuffLibrary.pdb

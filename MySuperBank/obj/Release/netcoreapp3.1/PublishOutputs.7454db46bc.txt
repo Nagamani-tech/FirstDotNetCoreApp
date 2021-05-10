@@ -1,0 +1,8 @@
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\publish\MySuperBank.exe
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\publish\MySuperBank.dll
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\publish\MySuperBank.deps.json
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\publish\MySuperBank.runtimeconfig.json
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\publish\MySuperBank.pdb
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\publish\Humanizer.dll
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\publish\BankyStuffLibrary.dll
+D:\Training project\MySuperBank\bin\Release\netcoreapp3.1\publish\BankyStuffLibrary.pdb
