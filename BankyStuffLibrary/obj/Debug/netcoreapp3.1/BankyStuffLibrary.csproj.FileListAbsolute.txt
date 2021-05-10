@@ -1,0 +1,18 @@
+D:\BankyStuffLibrary\bin\Debug\netcoreapp3.1\BankyStuffLibrary.deps.json
+D:\BankyStuffLibrary\bin\Debug\netcoreapp3.1\BankyStuffLibrary.dll
+D:\BankyStuffLibrary\bin\Debug\netcoreapp3.1\BankyStuffLibrary.pdb
+D:\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.csprojAssemblyReference.cache
+D:\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.AssemblyInfoInputs.cache
+D:\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.AssemblyInfo.cs
+D:\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.csproj.CoreCompileInputs.cache
+D:\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.dll
+D:\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.pdb
+D:\Training project\BankyStuffLibrary\bin\Debug\netcoreapp3.1\BankyStuffLibrary.deps.json
+D:\Training project\BankyStuffLibrary\bin\Debug\netcoreapp3.1\BankyStuffLibrary.dll
+D:\Training project\BankyStuffLibrary\bin\Debug\netcoreapp3.1\BankyStuffLibrary.pdb
+D:\Training project\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.csprojAssemblyReference.cache
+D:\Training project\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.AssemblyInfoInputs.cache
+D:\Training project\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.AssemblyInfo.cs
+D:\Training project\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.csproj.CoreCompileInputs.cache
+D:\Training project\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.dll
+D:\Training project\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.pdb
